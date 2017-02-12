@@ -18,4 +18,4 @@
 
 通过识别参数模型中的参数来进行统计估计的方法被称为 *参数方法* ，而非参数方法则不使用参数模型或使用具有无限多个参数的参数模型。  
 
-以下，假设样本 <img src="http://latex.codecogs.com/gif.latex?在此插入Latex公式" style="border:none;">xx 为 <img src="http://latex.codecogs.com/gif.latex?在此插入Latex公式" style="border:none;">xx 关于 <img src="http://latex.codecogs.com/gif.latex?在此插入Latex公式" style="border:none;">xx 的函数（详见 <img src="http://latex.codecogs.com/gif.latex?在此插入Latex公式" style="border:none;">xx 节）。
+以下，假设样本 <img src="http://latex.codecogs.com/gif.latex?\mathfrak{D}=\left\{x_i\right\}_{i=1}^{n}" style="border:none;"> 为 <img src="http://latex.codecogs.com/gif.latex?i.i.d." style="border:none;"> 关于 <img src="http://latex.codecogs.com/gif.latex?f(x)" style="border:none;"> 的函数（详见 <img src="http://latex.codecogs.com/gif.latex?7.3" style="border:none;"> 节）。
